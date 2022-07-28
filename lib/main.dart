@@ -4,6 +4,7 @@ import 'package:flutter_foodybite/util/const.dart';
 
 void main() async {
   runApp(MyApp());
+  print('hiiiii');
 }
 
 class MyApp extends StatefulWidget {
